@@ -1,2 +1,3 @@
 # nayan-damo
 this is my first git project
+author -nayan
